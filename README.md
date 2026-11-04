@@ -1,12 +1,15 @@
 Hi, I'm **Arman** 👋 I'm a full-stack developer who builds modern web apps with TypeScript, React and Next.js.
 
-### 🎓 HackYourFuture
+### 🚀 What I build
 
-I'm a trainee at [HackYourFuture](https://hackyourfuture.net/), an intensive full-time software development program. It covers:
+I design and build full-stack products end to end, from database and backend to a polished UI. My work includes:
 
-- **Core program:** CLI and Git, JavaScript, problem solving, networking and APIs, asynchronous programming, OOP, LLMs, databases and systems
-- **Specialisation track and final project:** team-based, real-world builds
-- **Personal development:** teamwork and feedback, presentation skills, time management and intercultural communication
+- 🛒 **Marketplaces and e-commerce:** checkout, orders, subscriptions and seller dashboards
+- 💳 **Payments:** Stripe integrations, including webhooks and payouts
+- ⚡ **Real-time backends:** live data, background jobs and scheduled workflows
+- 🔐 **Authentication:** OAuth, passkeys and role-based access
+- 🎧 **Media:** file uploads, CDN delivery and audio/video streaming
+- 🤖 **AI features:** in-app assistants and smart search
 
 ### 🛠️ Tech stack
 
@@ -17,7 +20,9 @@ I'm a trainee at [HackYourFuture](https://hackyourfuture.net/), an intensive ful
   <img src="https://skillicons.dev/icons?i=aws,vercel,git,github,bash,vitest,vscode,figma&theme=dark" alt="Cloud and tools" />
 </p>
 
-Also: real-time backends, authentication, payments, search, media streaming and AI features.
+### 🎓 HackYourFuture
+
+I'm also a trainee at [HackYourFuture](https://hackyourfuture.net/), a full-time software development program. It covers everything from JavaScript, APIs, databases and systems to team projects and professional skills.
 
 ### 📫 Connect
 
